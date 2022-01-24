@@ -1,0 +1,36 @@
+#main-container {
+  border-left: 1px solid #e4e2e3;
+  border-right: 1px solid #e4e2e3;
+  font-family: 'Open Sans', sans-serif;
+  padding: 50px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+  gap: 30px;
+}
+
+#main-container h1 {
+  color: #01a7e1;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+#main-container h2 {
+  font-size: 20px;
+  font-weight: 500;
+  font-style: italic;
+  margin-left: 20px;
+}
+
+#main-headers {
+  line-height: 1.2;
+}
+
+#main-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 30px;
+}
