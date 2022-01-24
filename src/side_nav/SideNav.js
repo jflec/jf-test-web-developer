@@ -1,5 +1,6 @@
 import React from 'react';
 import './sidenav.scss';
+import './sidenav_mobile.scss';
 
 const SideNav = () => {
   return (

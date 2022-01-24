@@ -1,5 +1,6 @@
 import React from 'react';
 import './main.scss';
+import './main_mobile.scss';
 import beast from '../images/beast.jpg';
 import man from '../images/man.jpg';
 import wizard from '../images/wizard.jpg';

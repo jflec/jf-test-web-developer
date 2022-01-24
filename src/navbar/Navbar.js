@@ -1,4 +1,5 @@
 import './navbar.scss';
+import './navbar_mobile.scss';
 import React from 'react';
 import Logo from '../images/leaselabs_logo_fullstack_rgb.png';
 

@@ -1,0 +1,15 @@
+@media only screen and (max-width: 978px) {
+  #main-container {
+    max-width: 90%;
+    border: none;
+  }
+
+  #image-object-container {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  #footer {
+    display: none;
+  }
+}
